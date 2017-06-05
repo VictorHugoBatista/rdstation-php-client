@@ -1,0 +1,15 @@
+{
+    "name": "agendor/rdstation-php-client",
+    "description": "Client wrapper for PHP integration with RDStation API.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Julio Paulillo",
+            "email": "julio@agendor.com.br"
+        },
+        {
+            "name": "Tulio Monte Azul",
+            "email": "tulio@agendor.com.br"
+        }
+    ]
+}
