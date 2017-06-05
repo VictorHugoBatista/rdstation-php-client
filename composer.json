@@ -11,5 +11,10 @@
             "name": "Tulio Monte Azul",
             "email": "tulio@agendor.com.br"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "agendor\\RDStationPHPClient\\" : "app/"
+        }
+    }
 }
