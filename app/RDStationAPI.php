@@ -2,6 +2,8 @@
 
 namespace agendor\RDStationPHPClient;
 
+use Exception;
+
 /**
  * @author Júlio Paulillo <julio@agendor.com.br>
  * @author Tulio Monte Azul <tulio@agendor.com.br>
